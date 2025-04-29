@@ -18,7 +18,7 @@ The pipeline is designed to be modular, scalable, and easily deployable in a ser
 - **Authentication**: Securely connects to the Spotify API using OAuth 2.0.
 - **Data Extraction**: Pulls detailed information about tracks, artists, and playlists.
 - **Data Transformation**: Cleans and reshapes raw API responses into analytics-friendly tables.
-- **Data Loading**: Uploads processed data to a storage solution (e.g., AWS S3, database).
+- **Data Loading**: Uploads processed data to a storage solution (e.g., AWS S3, AWS Athena).
 - **Automation Ready**: Built for deployment on AWS Lambda with optional event-driven scheduling.
 
 ---
