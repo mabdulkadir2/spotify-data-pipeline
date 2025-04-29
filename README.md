@@ -56,4 +56,8 @@ The pipeline is designed to be modular, scalable, and easily deployable in a ser
 
 ---
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 > Designed and maintained with care for high-quality data workflows.
